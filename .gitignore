@@ -9,6 +9,8 @@ target/
 
 # OS
 .DS_Store
+Thumbs.db
 
 # Secrets
 src/main/resources/application.yml
+src/main/resources/application.properties
