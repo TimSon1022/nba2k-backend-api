@@ -12,4 +12,3 @@ target/
 
 # Secrets
 src/main/resources/application.yml
-src/main/resources/application.properties
