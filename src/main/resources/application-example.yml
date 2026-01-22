@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/nba2k_backend
+    username: root
+    password: YOUR_PASSWORD
+
+server:
+  port: 8080
