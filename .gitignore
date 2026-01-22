@@ -1,1 +1,16 @@
+# Maven
 /target/
+*.log
+
+# IDE
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+src/main/resources/application.yml
+src/main/resources/application.properties
